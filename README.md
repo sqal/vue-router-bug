@@ -1,0 +1,1 @@
+https://github.com/vuejs/router/issues/1344
