@@ -1,10 +1,12 @@
 {
   "name": "vue-router-bug",
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview --port 5050"
+    "preview": "vite preview"
   },
   "dependencies": {
     "vue": "^3.2.47",
